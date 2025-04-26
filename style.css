@@ -1,0 +1,38 @@
+body {
+    background-color: hsl(233, 18%, 9%);
+    padding-left: 200px;
+    padding-right: 200px;
+    font-family: sans-serif;
+}
+
+.top {
+    display: flex;
+    gap: 1300px;
+
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sofo {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 64px;
+}
+
+
+
+.ref {
+    font-size: 54px;
+    color: white;
+}
+
+.grr {
+    color: white;
+}
+
+.gtr {
+    background-color: hsl(234, 14%, 29%);
+    width: 1000px;
+}
